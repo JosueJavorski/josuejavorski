@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 ##
 
-- 🔭 Trabalhando como Técnico Operacional
+- 🔭 Atualmente Estagiando na Área de Projetos 
 - 🌱 Estudando Desenvolvimento Java com IA
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
